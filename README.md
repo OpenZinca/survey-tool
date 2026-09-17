@@ -49,4 +49,6 @@ Edit the `Q` list in `app.py`. Every field is documented in the comment block ab
 
 ## License
 
-MIT — see [LICENSE](LICENSE). © 2026 Zinca Inc.
+Common Public Attribution License 1.0 (CPAL-1.0) — see [LICENSE](LICENSE). © 2026 Zinca Inc.
+
+Per Exhibit B of the license, user interfaces of this software (and of derivative works) must prominently display the attribution "Powered by Zinca Inc. - An OpenZinca Project" with a link to https://github.com/OpenZinca.
