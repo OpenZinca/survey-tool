@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+survey.db
+survey.db-wal
+survey.db-shm
+.venv/
